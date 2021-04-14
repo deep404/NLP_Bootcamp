@@ -1,2 +1,4 @@
 # NLP_Bootcamp
-##### In HW1, gasesti tema pe acasa nr.2
+##### In HW2, gasesti tema pe acasa nr.2 - cu nltk
+##### In HW3, gasesti tema pe acasa nr.3 - cu regex
+
